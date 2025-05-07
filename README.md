@@ -1,1 +1,1 @@
-# futgen-mvp
+# Futgen MVP
